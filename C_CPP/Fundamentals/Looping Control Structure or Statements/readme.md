@@ -5,4 +5,4 @@
 - [Loop Control Structures](Loop_Control_Structures.md)
 - [Types of loop in C Audio](Types_of_loops_in_C.md)
 - [Goto statement in C Audio](goto_statement_audio.md)
-
+- [Pattern printing questions](Pattern%20Printing.md)
